@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\bin\Debug\net9.0\ClassStructure.exe
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\bin\Debug\net9.0\ClassStructure.deps.json
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\bin\Debug\net9.0\ClassStructure.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\bin\Debug\net9.0\ClassStructure.dll
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\bin\Debug\net9.0\ClassStructure.pdb
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.sourcelink.json
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.dll
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\refint\ClassStructure.dll
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.pdb
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ClassStructure.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\JDCI-2.1\ClassStructure\obj\Debug\net9.0\ref\ClassStructure.dll

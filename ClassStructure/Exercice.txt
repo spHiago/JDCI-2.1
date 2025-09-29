@@ -1,0 +1,69 @@
+Develop an application to support the classes requested bellow.
+When information is required, the same must be provided by the user.
+Class structure:
+Person
+• Properties:
+o id
+o first name
+o last name
+o phone number
+o email
+o address
+• Methods:
+o GetAddress
+o GetFullName
+o GetContacts
+o GetAddress
+o SetNewPerson
+Address
+• Properties:
+o id
+o street
+o street2
+o door number
+o floor
+o postal code
+o locale
+o city
+o country
+• Methods:
+o GetAddress
+o SetAddress
+Assembly Junior Code Developer
+Employee (inherence form class person)
+• Properties:
+o job description
+o salary
+o department
+o nif
+o nib
+o age
+o birthdate
+o emergency contact name
+o emergency contact phone number
+• Methods:
+o AddEmployee
+o UpdateSalary
+o UpdateDepartmant
+o UpdateJobRole
+o UpdateEmployeeDetails
+Provider 
+• Properties:
+o id
+o name
+o address
+o contact person name
+o contact person job title
+o phone number
+o contact person phone number
+o contact person email
+o sector
+• Methods:
+o GetProviderDetails
+o AddProviderAddress
+Provider Contact (inherence form class person)
+• Properties:
+o job title
+• Methods:
+o AddProviderContactPerson
+o UpdateProviderContactPerson

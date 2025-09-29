@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\exercice.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:exercice.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:46:21.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:39:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercice.txt",
+              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Exercice.txt",
+              "RelativeDocumentMoniker": "Exercice.txt",
+              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Exercice.txt",
+              "RelativeToolTip": "Exercice.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-29T17:34:17.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
