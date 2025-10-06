@@ -7,29 +7,38 @@ namespace ClassStructure
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public int PhoneNumber { get; set; }
-        public string Email { get; set; } 
-        public string Adress { get; set; }
+        public string PhoneNumber { get; set; }
+        public string Email { get; set; }
+        public Address Address { get; set; }
 
-        public string GetAdress (string adress)
+        public string GetAddress()
         {
-            adress = Adress;
-            return (adress);
+            return Address?.GetAddress() ?? "No address set.";
         }
-        public string GetFullName (string fullName)
+
+        public string GetFullName()
         {
-            fullName = FirstName + " " + LastName;
-            return (fullName);
+            return $"{FirstName} {LastName}";
         }
-        public string GetContact(string email, int phonenumber)
+
+        public string GetContacts()
         {
-            email = Email;
-            phonenumber = PhoneNumber;
-            return (email +  " " + phonenumber);
+            return $"Email: {Email}, Phone: {PhoneNumber}";
         }
-        public void Apresent()
+
+        public void SetNewPerson(int id, string firstName, string lastName, string phoneNumber, string email, Address address)
         {
-            Console.WriteLine($"Hello, my name is {GetFullName}, and my number is {PhoneNumber}");
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            PhoneNumber = phoneNumber;
+            Email = email;
+            Address = address;
+        }
+
+        public void Present()
+        {
+            Console.WriteLine($"Hello, my name is {GetFullName()}, and my number is {PhoneNumber}");
         }
     }
 }
