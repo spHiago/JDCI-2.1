@@ -2,43 +2,37 @@
 
 namespace ClassStructure
 {
-    internal class Person
+    public class Person
     {
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
-        public Address Address { get; set; }
+        public Address Address { get; set; } = new Address();
 
-        public string GetAddress()
-        {
-            return Address?.GetAddress() ?? "No address set.";
-        }
+        public string GetFullName() => $"{FirstName} {LastName}";
 
-        public string GetFullName()
-        {
-            return $"{FirstName} {LastName}";
-        }
+        public string GetContacts() => $"Phone: {PhoneNumber}, Email: {Email}";
 
-        public string GetContacts()
-        {
-            return $"Email: {Email}, Phone: {PhoneNumber}";
-        }
+        public string GetAddress() => Address != null ? Address.GetAddress() : "No address defined.";
 
-        public void SetNewPerson(int id, string firstName, string lastName, string phoneNumber, string email, Address address)
+        public void SetNewPerson()
         {
-            Id = id;
-            FirstName = firstName;
-            LastName = lastName;
-            PhoneNumber = phoneNumber;
-            Email = email;
-            Address = address;
-        }
+            Console.WriteLine("Enter First Name:");
+            FirstName = Console.ReadLine();
 
-        public void Present()
-        {
-            Console.WriteLine($"Hello, my name is {GetFullName()}, and my number is {PhoneNumber}");
+            Console.WriteLine("Enter Last Name:");
+            LastName = Console.ReadLine();
+
+            Console.WriteLine("Enter Phone Number:");
+            PhoneNumber = Console.ReadLine();
+
+            Console.WriteLine("Enter Email:");
+            Email = Console.ReadLine();
+
+            Address = new Address();
+            Address.SetAddress();
         }
     }
 }

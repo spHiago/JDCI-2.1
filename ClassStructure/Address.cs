@@ -1,6 +1,6 @@
 ﻿namespace ClassStructure
 {
-    internal class Address
+    public class Address
     {
         public int Id { get; set; }
         public string Street { get; set; }
@@ -17,18 +17,22 @@
             return $"{Street}, {Street2}, {DoorNumber}, {Floor}, {PostalCode}, {Locale}, {City}, {Country}";
         }
 
-        public void SetAddress(int id, string street, string street2, string doorNumber, string floor,
-                               string postalCode, string locale, string city, string country)
+        public void SetAddress()
         {
-            Id = id;
-            Street = street;
-            Street2 = street2;
-            DoorNumber = doorNumber;
-            Floor = floor;
-            PostalCode = postalCode;
-            Locale = locale;
-            City = city;
-            Country = country;
+            Console.WriteLine("Enter Street:");
+            Street = Console.ReadLine();
+
+            Console.WriteLine("Enter Door Number:");
+            DoorNumber = Console.ReadLine();
+
+            Console.WriteLine("Enter Postal Code:");
+            PostalCode = Console.ReadLine();
+
+            Console.WriteLine("Enter City:");
+            City = Console.ReadLine();
+
+            Console.WriteLine("Enter Country:");
+            Country = Console.ReadLine();
         }
     }
 }
