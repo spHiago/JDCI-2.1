@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\",
+  "WorkspaceRootPath": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\exercice.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:exercice.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\classstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\classstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:classstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\providercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:providercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiagofranco\\desktop\\jdci-2.1\\classstructure\\exercice.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:exercice.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|c:\\users\\hiago\\documents\\jdci-2.1\\classstructure\\providercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CE221A-A8CD-2087-0B2E-EA23AA40316D}|ClassStructure.csproj|solutionrelative:providercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,54 +46,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Client.cs",
               "RelativeDocumentMoniker": "Client.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Client.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Client.cs",
               "RelativeToolTip": "Client.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T20:39:09.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T20:39:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProviderContact.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\ProviderContact.cs",
+              "RelativeDocumentMoniker": "ProviderContact.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\ProviderContact.cs",
+              "RelativeToolTip": "ProviderContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:36:39.848Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProviderContact.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\ProviderContact.cs",
-              "RelativeDocumentMoniker": "ProviderContact.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\ProviderContact.cs",
-              "RelativeToolTip": "ProviderContact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T20:36:39.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Provider.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Provider.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Provider.cs",
               "RelativeDocumentMoniker": "Provider.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Provider.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Provider.cs",
               "RelativeToolTip": "Provider.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T20:28:32.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T20:28:32.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClassStructure",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\ClassStructure.csproj",
+              "DocumentIndex": 1,
+              "Title": "ClassStructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\ClassStructure.csproj",
               "RelativeDocumentMoniker": "ClassStructure.csproj",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\ClassStructure.csproj",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\ClassStructure.csproj",
               "RelativeToolTip": "ClassStructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -102,65 +99,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Employee.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA4wBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T19:46:43.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Address.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Address.cs",
               "RelativeDocumentMoniker": "Address.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Address.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Address.cs",
               "RelativeToolTip": "Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T18:39:33.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T18:39:33.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Person.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T17:39:29.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:46:21.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T19:46:21.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Exercice.txt",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Exercice.txt",
+              "DocumentMoniker": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Exercice.txt",
               "RelativeDocumentMoniker": "Exercice.txt",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\JDCI-2.1\\ClassStructure\\Exercice.txt",
+              "ToolTip": "C:\\Users\\hiago\\Documents\\JDCI-2.1\\ClassStructure\\Exercice.txt",
               "RelativeToolTip": "Exercice.txt",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-09-29T17:34:17.589Z",
               "EditorCaption": ""
