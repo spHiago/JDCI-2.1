@@ -4,9 +4,9 @@ using ClassStructure2.Model;
 
 namespace ClassStructure2
 {
-   public class Program
+    public class Program
     {
-        public static void  Main(string[] args)
+        public static void Main(string[] args)
         {
 
             while (true)
@@ -22,7 +22,7 @@ namespace ClassStructure2
 
                 string? opc = Console.ReadLine();
 
-                switch(opc)
+                switch (opc)
                 {
                     case "1":
                         MenuPessoa();
@@ -44,13 +44,13 @@ namespace ClassStructure2
                         break;
                 }
             }
-         }
+        }
 
         static void MenuCliente()
         {
             Client client = new Client();
 
-            while(true)
+            while (true)
             {
                 Console.WriteLine("\n=== MENU CLIENTE ===");
                 Console.WriteLine("1 - Adicionar novo cliente.");
@@ -70,7 +70,7 @@ namespace ClassStructure2
                         break;
                     case "3":
                         client.UpdateClientAddress();
-                       break;
+                        break;
                     case "0":
                         Console.WriteLine("Voltando...");
                         return;
@@ -87,7 +87,7 @@ namespace ClassStructure2
         {
             Employee employee = new Employee();
 
-            while(true)
+            while (true)
             {
                 Console.WriteLine("\n=== MENU FUNCIONÁRIO ===");
                 Console.WriteLine("1 - Adicionar novo funcionário.");
@@ -136,30 +136,34 @@ namespace ClassStructure2
         {
             Person person = new Person();
 
-            while(true)
+            while (true)
             {
                 Console.WriteLine("\n=== MENU PESSOA ===");
                 Console.WriteLine("1 - Adicionar nova pessoa.");
                 Console.WriteLine("2 - Ver nome completo");
                 Console.WriteLine("3 - Ver meios de contacto.");
-                Console.WriteLine("4 - Ver endereço.");
+                Console.WriteLine("4 - Adicionar endereço.");
+                Console.WriteLine("5 - Ver endereço.");
                 Console.WriteLine("0 - Voltar");
                 Console.Write("Opção:");
 
                 string? op = Console.ReadLine();
 
-                switch(op)
+                switch (op)
                 {
                     case "1":
                         person.SetNewPerson();
                         break;
                     case "2":
-                        person.GetFullName();
+                        Console.WriteLine($"{person.GetFullName()}");
                         break;
                     case "3":
                         person.GetContacts();
                         break;
                     case "4":
+                        person.Address.SetAddress();
+                        break;
+                    case "5":
                         person.GetAddress();
                         break;
                     case "0":
@@ -173,10 +177,41 @@ namespace ClassStructure2
         }
         static void MenuFornecedor()
         {
-            Console.WriteLine("Menu Fornecedor ainda não implementado...");
+            Provider provider = new Provider();
+
+            while (true)
+            {
+                Console.WriteLine("\n=== MENU FORNECEDOR ===");
+                Console.WriteLine("1 - Adicionar Fornecedor.");
+                Console.WriteLine("2 - Ver detalhes do fornecedor");
+                Console.WriteLine("3 - Alterar contato do fornecedor");
+                Console.WriteLine("0 - Voltar");
+                Console.Write("Opção:");
+                string? op = Console.ReadLine();
+
+                switch (op)
+                {
+                    case "1":
+                        provider.SetNewPerson();
+                        provider.AddProviderContactPerson();
+
+                        break;
+                    case "2":
+                        provider.GetProviderDetails();
+                        break;
+                    case "3":
+                        provider.UptadeProviderContactPerson();
+                        break;
+                    case "0":
+                        Console.WriteLine("Voltando...");
+                        return;
+                    default:
+                        Console.WriteLine("Opção inválida.");
+                        break;
+
+                }
+            }
         }
 
     }
 }
-
-//falta corrigir muita coisa, o get address, o get fullname, ve ai mano
